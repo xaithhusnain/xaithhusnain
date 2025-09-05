@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Ali 👋
 
-<!--
-**xaithhusnain/xaithhusnain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSCS Student @ GCUF**  
+💻 Aspiring **Machine Learning Engineer** | Passion for **AI, Data & Automation**  
+🌱 Currently learning **Python, NumPy, Pandas, and ML basics**  
+🚀 Exploring **open-source contributions** and building small projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- **Languages:** Python, C++ (learning), SQL
+- **Libraries/Frameworks:** NumPy, Pandas, Matplotlib
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihusnain123)  
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/xaith_husnain)
+
+---
+
+## 📊 GitHub Stats
+![Husnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=xaithhusnain&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xaithhusnain&layout=compact&theme=radical)
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*
