@@ -1,9 +1,9 @@
-# Hi there, I'm Ali 👋
+# Hi there, I'm Ali 
 
-🎓 **BSCS Student @ GCUF**  
-💻 Aspiring **Machine Learning Engineer** | Passion for **AI, Data & Automation**  
-🌱 Currently learning **Python, NumPy, Pandas, and ML basics**  
-🚀 Exploring **open-source contributions** and building small projects
+**BSCS Student @ GCUF**  
+Aspiring **Machine Learning Engineer** | Passion for **AI, Data & Automation**  
+Currently learning **Python, NumPy, Pandas, and ML basics**  
+Exploring **open-source contributions** and building small projects
 
 ---
 
